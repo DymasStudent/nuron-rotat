@@ -10,7 +10,7 @@ bot.auto_collect = false
 function GonWebhook(Dymas)
     wh = Webhook.new(WebhookUrl)
     wh.username = "Dymas.#0606"
-    wh.avatar_url = "https://github.com/DymasStudent/nuron-rotat/blob/main/huhwhat.png"
+    wh.avatar_url = "https://github.com/DymasStudent/nuron-rotat/blob/main/Avatar/huhwhat.png"
     wh.embed1.use = true
     wh.embed1.title = "Rotation by Dymas.#0606"
     wh.embed1.description = Dymas
